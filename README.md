@@ -22,4 +22,4 @@ Con solo ejecutarlo, el programa:
 2. Coloca tus partituras PDF en partituras_originales/. Pueden estar todas juntas o distribuidas en subcarpetas. El script lo detectará todo automáticamente.
 3. Ejecuta el clasificador: python pdf_classifier.py  (O simplemente pulsa "run" en windows).
 
-4. Este proyecto no es solo una herramienta útil, sino una forma de automatizar lo que antes llevaba horas de organización manual. Está pensado con cariño para bandas de música, profesores, archivistas, directores y músicos en general que quieren centrarse en la música y no en la burocracia de los archivos.
+Este proyecto no es solo una herramienta útil, sino una forma de automatizar lo que antes llevaba horas de organización manual. Está pensado con cariño para bandas de música, profesores, archivistas, directores y músicos en general que quieren centrarse en la música y no en la burocracia de los archivos.
